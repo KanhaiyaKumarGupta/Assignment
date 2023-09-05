@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570997778863",
+    "project_id": "repsoft-149c7",
+    "storage_bucket": "repsoft-149c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570997778863:android:67c939ef0809e07774675a",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570997778863-ddjbdeb0dek4pqdvlgiq32k41i3sn2fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7Ie2_rJCtc7fiqoGYxiT0Df4Pe5uEmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570997778863-ddjbdeb0dek4pqdvlgiq32k41i3sn2fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

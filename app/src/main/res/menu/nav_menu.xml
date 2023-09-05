@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Explore"
+        android:icon="@drawable/homepage" />
+    <item
+        android:id="@+id/Network"
+        android:icon="@drawable/baseline_group_24" />
+    <item
+        android:id="@+id/chats"
+        android:icon="@drawable/splitransaction"/>
+
+    <item
+        android:id="@+id/groups"
+        android:icon="@drawable/contact"/>
+</menu>

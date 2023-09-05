@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account_and_enjoy_all_services">Create account and enjoy all services</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="signup">signup_</string>
+    <string name="sign_up_">SIGN UP</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="already_have_an_account_">Already have an account?</string>
+    <string name="sign_in_">Sign In</string>
+    <string name="sign_in_your_account">Sign in your account</string>
+    <string name="sign_in__">SIGN IN</string>
+    <string name="sign_up__">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="backbutton">backbutton</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password_screen">Forget Password</string>
+    <string name="forget_password_">Forget Password</string>
+    <string name="select_pg">Select PG</string>
+    <string name="update">Update</string>
+    <string name="_8_pm_to_10_am">8 Pm to 10 Am</string>
+    <string name="_12_pm_to_2_pm">12 Pm to 2 Pm</string>
+    <string name="_9_am_to_11am">9 Am to 11Am</string>
+    <string name="breakfast">BreakFast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="please_click_back_again_to_exit">Please Press Again to Exit</string>
+
+    <string-array name="pg_names">
+        <item>Jugglers Rest</item>
+        <item>Friendly house</item>
+        <item>Hostel Friday</item>
+
+    </string-array>
+</resources>
