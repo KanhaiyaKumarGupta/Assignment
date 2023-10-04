@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -15,6 +18,16 @@
         android:theme="@style/Theme.Assignment"
         tools:targetApi="31">
         <activity
+            android:name=".UserLocation"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".UserImage"
+            android:exported="false" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
@@ -27,7 +40,7 @@
             android:name=".Forgetpassword"
             android:exported="false" />
         <activity
-            android:name=".SignupActivity"
+            android:name=".ImageSliding"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

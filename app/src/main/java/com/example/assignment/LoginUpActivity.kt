@@ -64,7 +64,7 @@ class LoginUpActivity : BaseActivity() {
             Toast.makeText(this, if (isChecked) "Checked" else "Unchecked", Toast.LENGTH_LONG).show()
         }
 
-        binding?.backButton?.setOnClickListener {
+        binding.backButton.setOnClickListener {
             onBackPressed()
         }
 
@@ -90,16 +90,5 @@ class LoginUpActivity : BaseActivity() {
                 }
             }
     }
-//    private fun setupActionBar(){
-//        setSupportActionBar(binding?.toolbarSignInActivity)
-//
-//        val actionbar = supportActionBar
-//        if(actionbar != null){
-//            actionbar.setDisplayHomeAsUpEnabled(true)
-//            actionbar.setHomeAsUpIndicator(R.drawable.ic_black_color_back_24dp)
-//        }
-//        binding?.toolbarSignInActivity?.setNavigationOnClickListener{
-//            onBackPressed()
-//        }
-//    }
+
 }
